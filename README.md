@@ -12,6 +12,10 @@ Fix an error in Tylo Probe missions labelling.
 
 Changes Eeloo contracts sorting order to match new OPM contracts order.
 
+## Lastest release
+
+v0.0.3 See changelog for details.
+
 ## Dependancies
 
 - Probes Before Crew
