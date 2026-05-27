@@ -20,3 +20,4 @@ v0.0.3 See changelog for details.
 
 - Probes Before Crew
 - Outer Planets Mod
+- Contract Configurator
