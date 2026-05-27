@@ -1,5 +1,9 @@
 Dates are in YMD format.
 
+## 2026-05-27 v0.0.4
+
+Added Urlum & Moons contracts.
+
 ## 2026-05-22 v0.0.3
 
 Fixes Eeloo, Sarnus & Sarnus moons sorting contracts order.
