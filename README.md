@@ -14,7 +14,7 @@ Changes Eeloo contracts sorting order to match new OPM contracts order.
 
 ## Lastest release
 
-v0.0.3 See changelog for details.
+v0.0.4 See changelog for details.
 
 ## Dependancies
 
